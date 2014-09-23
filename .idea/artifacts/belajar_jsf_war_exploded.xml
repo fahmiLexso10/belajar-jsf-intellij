@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="belajar-jsf:war exploded">
+    <output-path>$PROJECT_DIR$/target/belajar-jsf</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="belajar-jsf/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="belajar-jsf" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
